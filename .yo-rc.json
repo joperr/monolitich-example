@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "ar.edu.uade"
+    },
+    "jhipsterVersion": "6.2.0",
+    "applicationType": "monolith",
+    "baseName": "MonolithicApp",
+    "packageName": "ar.edu.uade",
+    "packageFolder": "ar/edu/uade",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YjU0ZjU4OTY2ODYxYWViZTVjMTI5NGRjZmY4MGJjNjg3OTdhYmE0NjU4NjdjOWZhNDUzNDFlODZjNDgyODJkZGNkNDhjNzJjZmJiMGM2MTYyNzk3Mjc5OGIyMzBhNWYxMDZmNTkxYzQ2ZmUyYmExNWJhYzIzZTQ1Y2Y2NTllZjA=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
